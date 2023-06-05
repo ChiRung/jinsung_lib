@@ -1,0 +1,14 @@
+{
+  "name": "jinsung_lib",
+  "version": "0.0.1",
+  "description": "JinSung's Common Functions Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jinsung",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.2.5"
+  }
+}
